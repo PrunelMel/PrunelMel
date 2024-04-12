@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I’m+@PrunelMel,+a+junior+dev;Second+line+of+text)](https://git.io/typing-svg)
 - 👋 Hi, I’m @PrunelMel, a junior dev.
 - 👀 I’m interested in web and game development.
 - 🌱 I’m currently learning Angular.
