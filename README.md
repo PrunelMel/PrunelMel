@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I’m+PrunelMel,+a+junior+dev;Really+like+everything+about+programming+;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I’m+PrunelMel,+a+junior+dev;Really+like+everything+about+programming+and+gamedev+to;)](https://git.io/typing-svg)
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" height="100"/>
 </div>
@@ -39,10 +39,7 @@ I’m interested in 👀:
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PrunelMel&theme=dark&background=000000)](https://git.io/streak-stats)</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrunelMel&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-- 💞️ I’m looking to collaborate any project.
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 PrunelMel/PrunelMel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
