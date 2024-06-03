@@ -45,7 +45,7 @@
 ---
 
 ### :fire: My Stats :
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PrunelMel&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PrunelMel&theme=dark&background=000000)https://git.io/streak-stats)]
 </br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrunelMel&layout=compact&theme=vision-friendly-dark)
 
