@@ -33,7 +33,7 @@
 </div>
 <br/>
 <br/>
-<div id="header" align="center"><b>Frameworks</b></div>
+<div id="header" align="center"><h2>Frameworks</h2></div>
 <div id="header" align="center">
    <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 </div>
