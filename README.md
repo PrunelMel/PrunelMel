@@ -16,29 +16,44 @@
 ---
 
 ### :fire: My tools :
-<div id="header" align="center"><h2>Languages</h2></div>
-<br/>
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+
+  <!-- Web -->
+  ![Static Badge](https://img.shields.io/badge/less-%231D365D?style=for-the-badge&logo=less&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/HTML5-indigo?style=for-the-badge&logo=html5&logoColor=%23E34F26)
+  ![Static Badge](https://img.shields.io/badge/Tailwind-blue?style=for-the-badge&logo=tailwindcss&logoColor=%2306B6D4)
+  ![Static Badge](https://img.shields.io/badge/sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/Symfony-%23000000?style=for-the-badge&logo=symfony&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/php-%23777BB4?style=for-the-badge&logo=php&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/markdown-%23000000?style=for-the-badge&logo=markdown)
+  ![Static Badge](https://img.shields.io/badge/flask-%23000000?style=for-the-badge&logo=flask)
+  ![Static Badge](https://img.shields.io/badge/fastApi-%23009688?style=for-the-badge&logo=fastapi&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/SqlAlchemy-%23D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/Selenium-%2343B02A?style=for-the-badge&logo=selenium&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/scrapy-%2360A839?style=for-the-badge&logo=scrapy&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python&logoColor=%233776AB)
+  ![Static Badge](https://img.shields.io/badge/Bot-%230066FF?style=for-the-badge&logo=chatbot)
+  ![Static Badge](https://img.shields.io/badge/Dart-%230175C2?style=for-the-badge&logo=dart)
+  ![Static Badge](https://img.shields.io/badge/flutter-%2302569B?style=for-the-badge&logo=flutter)
+
+  <!-- DB -->
+  ![Static Badge](https://img.shields.io/badge/sqlite-%23003B57?style=for-the-badge&logo=sqlite)
+  ![Static Badge](https://img.shields.io/badge/MySql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/PostgreSql-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+
+
+  <!-- Icons -->
+  ![Static Badge](https://img.shields.io/badge/GoogleFonts-%234285F4?style=for-the-badge&logo=googlefonts&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/FontAwesome-%23538DD7?style=for-the-badge&logo=fontawesome&logoColor=white)
+  
+
+
 </div>
 <br/>
 <br/>
-<div id="header" align="center"><h2>Frameworks</h2></div>
-<div id="header" align="center">
-   <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
-</div>
 
 <br/>
 
