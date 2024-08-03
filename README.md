@@ -1,15 +1,19 @@
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I’m+PrunelMel,+a+junior+dev;Passionate++by++programming;)](https://git.io/typing-svg)-->
 
-![Header](./github-header-image.png)
+<!--[Header](./github-header-image.png)-->
+<div align="center">
+  <img src="github-header-image.png">
+</div>
+
 <!--<div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" height="100"/>
-</div>
+  </div>
 <div id="badges" align="center">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-
-</div>-->
+</div>
+-->
 
 
 <!--
