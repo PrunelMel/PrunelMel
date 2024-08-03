@@ -42,7 +42,7 @@ Profile view counter
 ---
 
 ### :fire: My tools :
-<div align="center">
+<div align="">
 
   <!-- Web -->
   ![Static Badge](https://img.shields.io/badge/less-%231D365D?style=for-the-badge&logo=less&logoColor=white)
