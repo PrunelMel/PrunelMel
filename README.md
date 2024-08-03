@@ -91,6 +91,12 @@ Profile view counter
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=PrunelMel&theme=dark&background=000000"/>
 </div>
+
+---
+### :social🤝: Social : 
+<pre>
+You can follow me on <a href="https://app.daily.dev">dailydev</a>
+</pre>
 <div align="center">
   <a href="https://app.daily.dev/prunelmel"><img src="https://api.daily.dev/devcards/v2/MHXP3xjYeBA4PiIAE2Hpm.png?type=default&r=f0r" width="356" alt="Prunel Mel's Dev Card"/></a>
 </div>
