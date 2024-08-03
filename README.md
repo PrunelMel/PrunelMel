@@ -1,9 +1,12 @@
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I’m+PrunelMel,+a+junior+dev;Passionate++by++programming;)](https://git.io/typing-svg)-->
+<div align='center'>
+  <img src="https://readme-typing-svg.demolab.com/?lines=👋 I’m+Mel;&font=&color=F722BDFF&pause=1"/>
+</div>
 
 <!--[Header](./github-header-image.png)-->
-<div align="center">
+<!--<div align="center">
   <img src="github-header-image.png">
-</div>
+</div>-->
 
 <!--<div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" height="100"/>
