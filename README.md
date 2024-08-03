@@ -93,7 +93,7 @@ Profile view counter
 </div>
 
 ---
-### :social🤝: Social : 
+### 🤝 Social : 
 <pre>
 You can follow me on <a href="https://app.daily.dev">dailydev</a>
 </pre>
