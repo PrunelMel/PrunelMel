@@ -76,7 +76,7 @@ Profile view counter
 </div>
 
 
-<div>
+<div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=PrunelMel&theme=dark&background=000000"/>
 </div>
 
