@@ -1,6 +1,6 @@
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I’m+PrunelMel,+a+junior+dev;Passionate++by++programming;)](https://git.io/typing-svg)-->
 <div align='center'>
-  <img src="https://readme-typing-svg.demolab.com/?lines=👋 I’m+Mel;&font=&color=F722BDFF&pause=1"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=👋 I’m+Mel;&font=&color=F722BDFF&pause=1&size=39"/>
 </div>
 
 <!--[Header](./github-header-image.png)-->
