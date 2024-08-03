@@ -25,6 +25,15 @@ Profile view counter
 
 ---
 
+🪧 About me/Interests:
+<pre>
+    💼 dev Web/IT • 💵 Frelance/Upwork •
+    📖 System/Algorithm • Game Dev
+    ⚙️ IA • 🎮 Games • 💻 Code
+</pre>
+
+---
+
 ### :fire: My tools :
 <div align="center">
 
