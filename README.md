@@ -69,7 +69,17 @@ Profile view counter
 ---
 
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrunelMel&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrunelMel&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)-->
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PrunelMel&theme=dark&background=000000)](https://git.io/streak-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrunelMel&theme=vision-friendly-dark"/>
+</div>
+
+
+<div>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=PrunelMel&theme=dark&background=000000"/>
+</div>
+
+
+<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PrunelMel&theme=dark&background=000000)](https://git.io/streak-stats)-->
 
