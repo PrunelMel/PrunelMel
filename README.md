@@ -62,18 +62,26 @@ Profile view counter
   ![Static Badge](https://img.shields.io/badge/Bot-%230066FF?style=for-the-badge&logo=chatbot)
   ![Static Badge](https://img.shields.io/badge/Dart-%230175C2?style=for-the-badge&logo=dart)
   ![Static Badge](https://img.shields.io/badge/flutter-%2302569B?style=for-the-badge&logo=flutter)
+  ![Static Badge](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
+
 
   <!-- DB -->
   ![Static Badge](https://img.shields.io/badge/sqlite-%23003B57?style=for-the-badge&logo=sqlite)
   ![Static Badge](https://img.shields.io/badge/MySql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/PostgreSql-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
+  <!-- Gaming Tools -->
+  ![Static Badge](https://img.shields.io/badge/godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 
-
-
-  <!-- Icons -->
+  <!-- Icons and other-->
   ![Static Badge](https://img.shields.io/badge/GoogleFonts-%234285F4?style=for-the-badge&logo=googlefonts&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/FontAwesome-%23538DD7?style=for-the-badge&logo=fontawesome&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello)
+  ![Static Badge](https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest)
+
   
 
 
