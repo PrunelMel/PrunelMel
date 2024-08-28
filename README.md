@@ -32,7 +32,7 @@ Profile view counter
 🪧 About me/Interests:
 <pre>
   • 💼 dev Web/IT 
-  • 💵 Frelance/Upwork 
+  • 💵 Freelance/Upwork 
   • 📖 System/Algorithm 
   • 🎮 Game Dev
   • 💡 IA 
