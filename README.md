@@ -1,8 +1,9 @@
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I’m+PrunelMel,+a+junior+dev;Passionate++by++programming;)](https://git.io/typing-svg)-->
 
-<div align='center'>
+<!--<div align='center'>
   <img src="https://readme-typing-svg.demolab.com/?lines=👋 I'm +Mel;&font=&color=F722BDFF&pause=1&size=28&vCenter=true&center=true"/>
-</div>
+</div>-->
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <!--<div align="center">
   <img src="github-header-image.png">
